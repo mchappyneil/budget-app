@@ -1,10 +1,6 @@
 # [WIP] Budgeting App
 
-----------------------
-
 ### This is a simple, CLI-based (as of now) app to plan - and hopefully stick to - a monthly budget.
-
-----------------------------------------------------------------------------------------------------
 
 As of now, the app only takes in a value from a user in the CLI, then performs a calculation to split the budget into 3 
 groups: needs, savings, and wants.
@@ -27,8 +23,6 @@ The remaining value of the budget is allocated here, in the 'wants' category. Wa
 the above 2 groups - dining out, media subscriptions, strictly unnecessary products required to survive.
 
 ## Plans for the Future
-
------------------------
 
 ### As stated in the opening header, this project is very much a work in progress. 
 
